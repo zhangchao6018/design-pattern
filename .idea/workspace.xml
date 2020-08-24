@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12871490-c928-4995-8a1e-2a39bd4a9289" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/maven/repository" />
+        <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gX0ccrKLLzMBzLdAKXKk28tQx3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zc/design/principle/singleresponsibility" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zc.design.principle.openclose" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/zc/design/principle/singleresponsibility" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.design.principle.dependenceinversion.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.design.principle.dependenceinversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.design.principle.demeter.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.design.principle.demeter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.design.principle.openclose.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.design.principle.openclose.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.design.principle.singleresponsibility.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.design.principle.singleresponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.design.pattern.creational.simplefactory.Test" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.design.pattern.creational.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12871490-c928-4995-8a1e-2a39bd4a9289" name="Default Changelist" comment="" />
+      <created>1598245709595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598245709595</updated>
+      <workItem from="1598245711840" duration="865000" />
+      <workItem from="1598248857822" duration="13622000" />
+      <workItem from="1598268511636" duration="892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="121" key="#Project_Structure" timestamp="1598245898942">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="340" y="121" key="#Project_Structure/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598245898942" />
+    <state x="609" y="194" key="#com.intellij.ide.util.MemberChooser" timestamp="1598259128688">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="609" y="194" key="#com.intellij.ide.util.MemberChooser/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598259128688" />
+    <state x="327" y="458" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598259565662">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="327" y="458" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598259565662" />
+    <state x="497" y="23" width="630" height="1027" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598259798006">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="497" y="23" width="630" height="1027" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598259798006" />
+    <state width="1628" height="3" key="GridCell.Tab.0.bottom" timestamp="1598268506454">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="3" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598268506454" />
+    <state width="1628" height="3" key="GridCell.Tab.0.center" timestamp="1598268506454">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="3" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598268506454" />
+    <state width="1628" height="3" key="GridCell.Tab.0.left" timestamp="1598268506454">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="3" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598268506454" />
+    <state width="1628" height="3" key="GridCell.Tab.0.right" timestamp="1598268506454">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="3" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598268506454" />
+    <state x="0" y="23" width="1280" height="1027" key="SettingsEditor" timestamp="1598260856976">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="23" width="1280" height="1027" key="SettingsEditor/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598260856976" />
+    <state x="502" y="213" width="675" height="655" key="StructurePopup" timestamp="1598262159227">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="502" y="213" width="675" height="655" key="StructurePopup/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598262159227" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1598261905986">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1598261905985" />
+  </component>
+</project>
